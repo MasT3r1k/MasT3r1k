@@ -47,6 +47,7 @@
 ![VS Code](https://skill-icons-fast.vercel.app/api/icons?i=vscode)
 ![Android Studio](https://skill-icons-fast.vercel.app/api/icons?i=androidstudio)
 ![Affinity](https://skill-icons-fast.vercel.app/api/icons?i=affinity)
+![DataGrip](https://skill-icons-fast.vercel.app/api/icons?i=datagrip)
 ![Git](https://skill-icons-fast.vercel.app/api/icons?i=git)
 ![Google Analytics](https://skill-icons-fast.vercel.app/api/icons?i=googleanalytics)
 ![Docker](https://skill-icons-fast.vercel.app/api/icons?i=docker)
